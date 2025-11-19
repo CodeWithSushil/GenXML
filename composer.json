@@ -1,0 +1,24 @@
+{
+    "name": "genxml/genxml",
+    "description": "GenXML",
+    "type": "library",
+    "require": {
+        "php": "^8.4"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Genxml\\Genxml\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sushil Kumar",
+            "email": "sushilkumbhar77@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
