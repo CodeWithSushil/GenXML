@@ -3,7 +3,7 @@
     "description": "GenXML",
     "type": "library",
     "require": {
-        "php": "^8.4",
+        "php": "^8.3",
         "ext-bcmath": "*"
     },
     "require-dev": {
