@@ -7,7 +7,9 @@
         "ext-bcmath": "*"
     },
     "require-dev": {
-        "symfony/var-dumper": "^7.3"
+        "symfony/var-dumper": "^7.3",
+        "phpunit/phpunit": "^12.5",
+        "phpstan/phpstan": "^2.1"
     },
     "license": "MIT",
     "autoload": {
